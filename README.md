@@ -1,4 +1,4 @@
-# Deploy Flask Web on AWS
+# Deploy and Design Highly avialable and scalable Website 
 
 This project demonstrates how to deploy a Flask web application on AWS using a highly available and scalable architecture. The application is built with Flask and served to users through AWS infrastructure components such as EC2, Application Load Balancer, and Auto Scaling.
 
